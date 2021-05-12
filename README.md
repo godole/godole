@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skill
+
+**Tech Stack**
+
+ - Unity
+
+ - Cocos2d-X
+
+**Language**
+
+- C#
+- C++
+- java
+
+**VCS**
+
+- Githuh
+- Unity Collaborate
